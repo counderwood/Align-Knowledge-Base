@@ -1,10 +1,8 @@
 flask
 flask-cors
 anthropic
-chromadb
 pdfplumber
 pypdf
-tqdm
 google-auth
 google-api-python-client
 gunicorn
