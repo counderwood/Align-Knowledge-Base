@@ -5,7 +5,6 @@ chromadb
 pdfplumber
 pypdf
 tqdm
-sentence-transformers
 google-auth
 google-api-python-client
 gunicorn
